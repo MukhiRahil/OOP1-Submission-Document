@@ -1,6 +1,6 @@
 package JAVA;
 import java.util.Scanner;
-class practical9 {
+class practical09 {
     public static int gcd(int m, int n) {
         if (n > m) {
             return gcd(n, m);
