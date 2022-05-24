@@ -1,7 +1,8 @@
 package JAVA;
 import java.util.Scanner;
 class practical13 {
-    public static void main(String args[]) {
+    public static void main(String args[])
+    {
         Scanner sc = new Scanner(System.in);
         System.out.print("expression: ");
         String eq = sc.nextLine();
