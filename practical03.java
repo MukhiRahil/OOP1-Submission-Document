@@ -2,7 +2,8 @@ package JAVA;
 import java.util.Scanner;
 public class practical03
 {
-public static void main(String[] args) {
+public static void main(String[] args)
+{
 Scanner sc = new Scanner(System.in);
 double meter;
 System.out.println("Enter the Any Value in Meter:- ");
