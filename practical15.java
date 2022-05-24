@@ -1,7 +1,9 @@
 package JAVA;
 import java.util.Scanner;
-class practical15 {
-    public static int bin2Dec(String binaryString) throws NumberFormatException {
+class practical15 
+{
+    public static int bin2Dec(String binaryString) throws NumberFormatException
+    {
         int decimal = 0;
         int strLength = binaryString.length();
         for (int i = 0; i < strLength; i++) {
@@ -12,7 +14,8 @@ class practical15 {
         }
         return decimal;
     }
-    public static void main(String[] args) {
+    public static void main(String[] args)
+    {
         Scanner input = new Scanner(System.in);
         System.out.print("Enter Binary Value : ");
         String str = input.nextLine();
