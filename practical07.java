@@ -1,5 +1,5 @@
 package JAVA;
-class practical7
+class practical07
 {
     public static void main(String args[]) {
         System.out.print("plate No: ");
