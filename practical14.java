@@ -20,7 +20,8 @@ class Loan {
     }
 }
 class practical14 {
-    public static void main(String[] args) {
+    public static void main(String[] args)
+    {
         ArrayList<Object> arr_list = new ArrayList<Object>();
         arr_list.add(new Loan(50000));
         arr_list.add(new Date());
