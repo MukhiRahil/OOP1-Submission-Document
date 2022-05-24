@@ -1,8 +1,10 @@
 package JAVA;
 import java.util.Scanner;
 import java.util.Random;
-class practical11 {
-    public static void main(String args[]) {
+class practical11 
+{
+    public static void main(String args[])
+    {
 
         int matrix[][] = new int[6][6];
         Random sc = new Random();
