@@ -1,7 +1,9 @@
 package JAVA;
 import java.util.Scanner;
-class practical09 {
-    public static int gcd(int m, int n) {
+class practical09 
+{
+    public static int gcd(int m, int n) 
+    {
         if (n > m) {
             return gcd(n, m);
         } else if (n == 0) {
@@ -10,7 +12,8 @@ class practical09 {
             return gcd(n, m % n);
         }
     }
-    public static void main(String[] args) {
+    public static void main(String[] args) 
+    {
         Scanner sc = new Scanner(System.in);
         System.out.print("Enter two digit :");
         int n1 = sc.nextInt();
