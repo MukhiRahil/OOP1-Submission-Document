@@ -1,6 +1,6 @@
 import java.io.*;
 import java.util.*;
-class prac25 {
+class practical25 {
     public static void main(String[] args) throws IOException, FileNotFoundException {
         File fin = new File(args[0]);
         BufferedReader br = new BufferedReader(new FileReader(fin));
