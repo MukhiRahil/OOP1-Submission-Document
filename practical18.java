@@ -6,7 +6,7 @@ import javafx.scene.shape.Circle;
 import javafx.scene.layout.Pane;
 import javafx.geometry.Insets;
 import javafx.stage.Stage;
-public class prac18 extends Application
+public class practical18 extends Application
 {
     @Override
     public void start(Stage primaryStage) {
