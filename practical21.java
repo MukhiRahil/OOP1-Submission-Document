@@ -1,6 +1,6 @@
 import java.util.*;
 import java.io.*;
-class prac21 {
+class practical21 {
     public static void main(String[] args) {
         try {
             PrintWriter pw = new PrintWriter(new File("C:\\Users\\lenovo\\Documents\\java_prac\\123.txt"));
