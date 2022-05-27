@@ -5,7 +5,7 @@ import javafx.application.Application;
         import javafx.scene.paint.Color;
         import javafx.scene.shape.Circle;
         import javafx.stage.Stage;
-public class prac19 extends Application
+public class practical19 extends Application
 {
     @Override
     public void start(Stage primaryStage)
