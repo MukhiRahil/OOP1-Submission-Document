@@ -1,5 +1,5 @@
 import java.util.*;
-class prac23 {
+class practical23 {
     public static void main(String[] args) {
         Integer[][] a = new Integer[3][3];
         int value = 0;
