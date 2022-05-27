@@ -1,4 +1,4 @@
-class prac24 {
+class practical24 {
     public static void main(String[] args)  throws CloneNotSupportedException{
         MypriorityQueue<Integer> q1 = new MypriorityQueue<>();
         q1.offer(10);
