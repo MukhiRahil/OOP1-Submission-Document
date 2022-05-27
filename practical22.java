@@ -1,5 +1,5 @@
 import java.util.*;
-class prac22 {
+class practical22 {
     public static void main(String[] args) {
         int[] a = { 34, 45, 11, 22, 33 };
         System.out.println("array elements : ");
