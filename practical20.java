@@ -13,7 +13,7 @@ import javafx.application.Application;
         import javafx.scene.paint.Color;
 public class HelloWorld extends Application
 {
-    protected Text text = new Text(50, 50, "Hello I am  Smit Kakadiya");
+    protected Text text = new Text(50, 50, "Hello I am  Mukhi Rahil");
     @Override
     public void start(Stage primaryStage) {
         HBox paneForButtons = new HBox(40);
@@ -70,7 +70,7 @@ public class HelloWorld extends Application
             }
         });
         Scene scene = new Scene(pane, 450, 150);
-        primaryStage.setTitle("Smit Kakadiya");
+        primaryStage.setTitle("Mukhi Rahil");
         primaryStage.setScene(scene);
         primaryStage.show();
     }
